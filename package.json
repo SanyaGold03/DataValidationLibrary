@@ -1,20 +1,23 @@
 {
-  "name": "datavalidationlibrary", 
-  "version": "1.0.0", 
-  "description": "by sasha", 
+  "name": "datavalidationlibrary",
+  "version": "1.0.1",
+  "description": "by sasha",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SanyaGold03/DataValidationLibrary.git" 
+    "url": "https://github.com/SanyaGold03/DataValidationLibrary.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "Sasha",
+  "license": "MIT",
+  "dependencies": {
+    "taskscheduler1": "^1.0.1"
+  }
 }
